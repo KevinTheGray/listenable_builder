@@ -1,7 +1,7 @@
 name: listenable_builder
 description: A wrapper around AnimatedBuilder so that it may be called ListenableBuilder
 version: 1.0.0
-author: KevinTheGray
+author: KevinTheGray kevinthegray8@gmail.com
 homepage: https://github.com/KevinTheGray/listenable_builder
 
 environment:
