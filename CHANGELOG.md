@@ -1,3 +1,3 @@
-## [0.0.1] - TODO: Add release date.
+## [1.0.0] - June 07, 2019
 
-* TODO: Describe initial release.
+* Initial release.  A simple wrapper around AnimatedBuilder so that it may be called ListenableBuilder.

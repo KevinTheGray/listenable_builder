@@ -1,14 +1,9 @@
 # listenable_builder
 
-A new Flutter package project.
+ListenableBuilder is an extension of AnimatedBuilder that doesn't do anything except **possibly** make your code more readable.  
 
-## Getting Started
+## Why?
 
-This project is a starting point for a Dart
-[package](https://flutter.dev/developing-packages/),
-a library module containing code that can be shared easily across
-multiple Flutter or Dart projects.
+Because Flutter is heavy on animations, and using an AnimatedBuilder for infrequent and simple state changes can just read weird.
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+ListenableBuilder sounds more like what you'd expect.  This widget rebuilds when the listenable I give it updates.
